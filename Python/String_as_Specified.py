@@ -6,7 +6,7 @@ Twinkle, twinkle, little star,
 Twinkle, twinkle, little star, 
 	How I wonder what you are 
   
-  Practice Source: https://www.w3resource.com/python-exercises/python-basic-exercises.php"""
+  Practice question from: https://www.w3resource.com/python-exercises/python-basic-exercises.php"""
   
 print("Twinkle, twinkle, little star,")
 print("\n\t How I wonder what you are!")
